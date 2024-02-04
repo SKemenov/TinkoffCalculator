@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  TinkoffCalculator
-//
-//  Created by Sergey Kemenov on 04.02.2024.
-//
-
 import UIKit
 
 @main

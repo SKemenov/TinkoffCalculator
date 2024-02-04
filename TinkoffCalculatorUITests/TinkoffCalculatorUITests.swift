@@ -1,10 +1,3 @@
-//
-//  TinkoffCalculatorUITests.swift
-//  TinkoffCalculatorUITests
-//
-//  Created by Sergey Kemenov on 04.02.2024.
-//
-
 import XCTest
 
 final class TinkoffCalculatorUITests: XCTestCase {
